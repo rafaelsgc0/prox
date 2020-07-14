@@ -27,3 +27,11 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Configs
+config/database.yml
+config/secrets.yml
+
+.generators
+.rakeTasks
+.idea/*
