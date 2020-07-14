@@ -27,10 +27,13 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
-
-# Configs
 config/database.yml
 config/secrets.yml
+config/shoryuken.yml
+config/cloudinary.yml
+public/assets
+public/uploads/
+node_modules/
 
 .generators
 .rakeTasks
