@@ -29,8 +29,8 @@
 /config/master.key
 
 # Configs
-/config/database.yml
-/config/secrets.yml
+config/database.yml
+config/secrets.yml
 
 .generators
 .rakeTasks
